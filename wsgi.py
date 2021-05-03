@@ -6,7 +6,7 @@ def hello():
     #Islam start
     print ("Print to Screen Islam Awesome")
     #Islam Stop
-    return "Hello World Eslam!"
+    return "Hello World Eslam Added!"
 
 if __name__ == "__main__":
     application.run()
